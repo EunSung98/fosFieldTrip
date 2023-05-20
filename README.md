@@ -3,7 +3,7 @@
 ### 역할
 맡은 부분 :  직원 정보 등록 G02.jsp
 <br><br>
-![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/8df7b230-315e-4fa6-a3fa-f8eb2ea7cc09){: width="200" height="100"}
+![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/8df7b230-315e-4fa6-a3fa-f8eb2ea7cc09){: width="100" height="50"}
 
 ### 회원가입
 ![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/c9e11981-5794-4aa6-bd3b-7cb403e31162)
@@ -13,13 +13,15 @@
 
 ### 코드 
 
-![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/ab8d2437-a93b-415f-8530-9209ed56bf17)
+![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/ab8d2437-a93b-415f-8530-9209ed56bf17){: width="100" height="50"}
 
-![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/5e728979-2665-4494-af65-873a71228e51)
+![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/5e728979-2665-4494-af65-873a71228e51){: width="100" height="50"}
+
 
 ### 화면 설계
 
-![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/a09e2c86-7568-4d0e-864d-53141acc08c7)
+![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/a09e2c86-7568-4d0e-864d-53141acc08c7){: width="100" height="50"}
+
 
 ### 소감
 
