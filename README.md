@@ -3,7 +3,7 @@
 ### 역할
 맡은 부분 :  직원 정보 등록 G02.jsp
 <br><br>
-![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/8df7b230-315e-4fa6-a3fa-f8eb2ea7cc09){: width="100" height="50"}
+<img src="https://url/image.pnghttps://github.com/EunSung98/fosFieldTrip/assets/77737044/8df7b230-315e-4fa6-a3fa-f8eb2ea7cc09" width="100" height="50"/>
 
 ### 회원가입
 ![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/c9e11981-5794-4aa6-bd3b-7cb403e31162)
