@@ -13,14 +13,14 @@
 
 ### 코드 
 
-![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/ab8d2437-a93b-415f-8530-9209ed56bf17){: width="100" height="50"}
+![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/ab8d2437-a93b-415f-8530-9209ed56bf17)
 
-![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/5e728979-2665-4494-af65-873a71228e51){: width="100" height="50"}
+![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/5e728979-2665-4494-af65-873a71228e51)}
 
 
 ### 화면 설계
 
-![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/a09e2c86-7568-4d0e-864d-53141acc08c7){: width="100" height="50"}
+![image](https://github.com/EunSung98/fosFieldTrip/assets/77737044/a09e2c86-7568-4d0e-864d-53141acc08c7)
 
 
 ### 소감
